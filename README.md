@@ -8,3 +8,8 @@ Segue o link da publicação:
 https://app.powerbi.com/view?r=eyJrIjoiNzQ0YTI5M2UtYTk1MS00MjcxLTg5MWYtODdhMjJhZGNjMWM0IiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
 Obs.: nem todas os recursos ficam disponíveis quando é criado o dashboard do relatoório, portanto, para ter a completude de visões e informações, utilize o link do arquivo em pbix deste mini projeto.
 
+-----------------------------------------------------------------------------------
+Mini- Projeto 6 (MP6): Rerefe-se a um relatório de dados de Mercado de ações com narrativa inteligente
+Segue link de publicação:
+https://app.powerbi.com/view?r=eyJrIjoiMmI0N2NjNDYtNDFkNi00NDFhLTg0NWQtZjQzYTNiYmNmNTNjIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+

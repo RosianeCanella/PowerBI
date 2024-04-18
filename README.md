@@ -13,3 +13,9 @@ Mini- Projeto 6 (MP6): Rerefe-se a um relatório de dados de Mercado de ações 
 Segue link de publicação:
 https://app.powerbi.com/view?r=eyJrIjoiMmI0N2NjNDYtNDFkNi00NDFhLTg0NWQtZjQzYTNiYmNmNTNjIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
 
+------------------------------------------------------------------------------------
+Teste de Analista de dados
+https://app.powerbi.com/view?r=eyJrIjoiMWQ3NWVhOWEtYjlmNC00MzgyLTg5MzktZjdhMjg3OGIwYmUyIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+Se trata de análise de dados da base do PNAD_COVID_2020, entre os meses de 09 a 11. No qual foram gerados insights sobre as faixas, etárias, genero, comorbidades, bem como rendimentos.
+
+

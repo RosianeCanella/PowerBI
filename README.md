@@ -17,5 +17,5 @@ Mini projeto 8- Criação de BoxPlot com R conectado ao Power BI
 
 https://app.powerbi.com/view?r=eyJrIjoiYjI4YWJlOGItZmJmYy00MjhlLTljODctZmFkNmVjYWEyMGJjIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
 ************************************************
-Mini projeto com recurso de IA, com detecção de anomilia e recurso de previsão
+Mini projeto Lab 9 -com recurso de IA, com detecção de anomilia e recurso de previsão
 https://app.powerbi.com/view?r=eyJrIjoiYWNkNDhmZGEtODc4Ny00NDhmLTg5M2EtOGYxNWVhZjg0YmRmIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9

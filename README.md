@@ -12,4 +12,7 @@ Obs.: nem todas os recursos ficam disponíveis quando é criado o dashboard do r
 Mini- Projeto 6 (MP6): Rerefe-se a um relatório de dados de Mercado de ações com narrativa inteligente
 Segue link de publicação:
 https://app.powerbi.com/view?r=eyJrIjoiMmI0N2NjNDYtNDFkNi00NDFhLTg0NWQtZjQzYTNiYmNmNTNjIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+*******************************************************
+Mini projeto 8- Criação de BoxPlot com R conectado ao Power BI
 
+https://app.powerbi.com/view?r=eyJrIjoiYjI4YWJlOGItZmJmYy00MjhlLTljODctZmFkNmVjYWEyMGJjIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9

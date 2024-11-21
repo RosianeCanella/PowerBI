@@ -19,3 +19,27 @@ https://app.powerbi.com/view?r=eyJrIjoiYjI4YWJlOGItZmJmYy00MjhlLTljODctZmFkNmVjY
 ************************************************
 Mini projeto Lab 9 -com recurso de IA, com detecção de anomilia e recurso de previsão
 https://app.powerbi.com/view?r=eyJrIjoiYWNkNDhmZGEtODc4Ny00NDhmLTg5M2EtOGYxNWVhZjg0YmRmIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+***********************************************
+Case Coty
+
+Relatório de vendas da ação de borrifação da Coty Dufry
+https://app.powerbi.com/view?r=eyJrIjoiNjFjZDFmZWQtOGI4Ny00NzliLWE3NDItMjYxNmZkNmMzM2RhIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+***************************************************
+Case Bordon
+https://app.powerbi.com/view?r=eyJrIjoiOTFlNzZiMWEtNGQ2NC00NmJiLWI1MGEtYzIyYzhkODhiZmM2IiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+*******************************
+Case Charque
+https://app.powerbi.com/view?r=eyJrIjoiNWU0NmQxNDctMzEwMS00YmRmLWIzMTgtM2E3MGEyZDllOTg4IiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+************************************
+Case Maturatta
+https://app.powerbi.com/view?r=eyJrIjoiYTlhNGQ4MDItODQyMC00YTljLTkyZjktNTViMzFhOWJkYTEyIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+**************************************
+Case Barilla 
+https://app.powerbi.com/view?r=eyJrIjoiYWQ3YjdiMTYtNDljYS00MDU0LWFkZjctYTNjNDVmYThlYjBiIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+**************************************
+Case Mantiqueira
+https://app.powerbi.com/view?r=eyJrIjoiYTE5NzBjNjgtOTg5YS00MWI5LWExNzktMWFkOGFhNTJlOTcyIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+*************************
+PBI com R
+https://app.powerbi.com/view?r=eyJrIjoiYjI4YWJlOGItZmJmYy00MjhlLTljODctZmFkNmVjYWEyMGJjIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
+
